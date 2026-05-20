@@ -1,6 +1,3 @@
-# logistic-regression-from-scratch
-Implementation of Logistic Regression from scratch using NumPy, including gradient descent and cross-entropy loss. 
-
 # Logistic Regression from Scratch
 Implementation of Logistic Regression with manually derived gradients and cross-entropy loss, compared against Scikit-Learn's implementation for validation purposes.
 
